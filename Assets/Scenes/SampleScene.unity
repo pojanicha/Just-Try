@@ -424,7 +424,7 @@ MonoBehaviour:
   itemPrefab:
   - {fileID: 8639557553174810192, guid: d6cfac636d79c004697b1b84dcd4c5bf, type: 3}
   - {fileID: 2732987035825672683, guid: fd01eb909fb210d4382b10e57f0528ed, type: 3}
-  secondsSpawn: 3
+  secondsSpawn: 5
   minTras: -8.31917
   maxTras: 8.31917
 --- !u!4 &1350996174
